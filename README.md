@@ -5,6 +5,7 @@ Atliq hardware is a company that supplies computer hardware and peripherals to m
 firm also has many regional offices.
 
 Challenges faced by the sales lead :
+
 1)Sales lead is facing issues in terms of tracking the dynamically growing market and generating insights from business.
 2)Lead would take insights from mangers in north , central and southern part of India. However , since all of the information is verbal , sometimes the managers
 do not provide accurate information.

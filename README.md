@@ -1,4 +1,4 @@
-# Analysis-of-Sales-Insights-of-Hardware-Company
+# Analysis-of-Sales-Trends-of-Hardware-Company
 
 Background about the firm :
 Atliq hardware is a company that supplies computer hardware and peripherals to many clients across India. The Head office is in Delhi and the 
